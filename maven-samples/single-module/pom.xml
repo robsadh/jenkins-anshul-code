@@ -17,7 +17,8 @@
   </properties>
 
   <distributionManagement>
-    <site>
+    <!-- <site> -->
+           <site>
       <id>site-server</id>
       <name>Test Project Site</name>
       <url>file:///tmp/single-module-site</url>
