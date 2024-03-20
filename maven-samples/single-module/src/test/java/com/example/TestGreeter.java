@@ -29,8 +29,6 @@ public class TestGreeter {
 
   @Test
   public void Intensionally failed() {
-    
-
     assertThat(false);
   }
 
